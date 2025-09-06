@@ -50,4 +50,3 @@ The **Scheduling Algorithms Simulator** is a console-based C++ application desig
 
 ---
 
-## 📂 Example Input File
